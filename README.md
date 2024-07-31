@@ -71,6 +71,7 @@ Create and train a Logistic Regression model on the training data.
 ### Model Evaluation
 
 Make predictions on the test set and evaluate the model's performance using metrics such as accuracy score.
+The accuracy = 0.79.
 
 ## Conclusion
 
